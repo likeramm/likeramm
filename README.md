@@ -1,5 +1,5 @@
 <!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:2E3A59&height=180&section=header&text=Hi%20there,%20I'm%20Ram%20👋&fontSize=40&fontColor=E6EDF3&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:2E3A59&height=180&section=header&text=Hi,%20I'm%20Aram%20Jo%20👋&fontSize=40&fontColor=E6EDF3&animation=fadeIn" width="100%"/>
 
 <p align="center">
   <a href="https://www.instagram.com/whdkfkal"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
