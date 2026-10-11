@@ -42,9 +42,13 @@
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Hugging%20Face%20Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 
+**DevOps / Cloud**
+
+<img src="https://skillicons.dev/icons?i=docker,vercel,aws&theme=dark"/>
+
 **Etc.**
 
-<img src="https://skillicons.dev/icons?i=c,git,github,vscode,notion,figma&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=c,java,git,github,vscode,notion,figma&theme=dark"/>
 
 ## 📌 Projects
 
