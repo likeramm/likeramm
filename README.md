@@ -31,11 +31,16 @@
 
 **AI / Data**
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,sklearn&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn&theme=dark"/>
+
+<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Hugging%20Face%20Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 
 **Etc.**
 
-<img src="https://skillicons.dev/icons?i=c,git,github,vscode&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=c,git,github,vscode,notion,figma&theme=dark"/>
 
 ## 📌 Projects
 
